@@ -1,7 +1,4 @@
-# Complete-Partial-degradation-of-Laminate
-Developed MATLAB codes for simulating complete and partial degradation of glass epoxy laminates under combined me- chanical and hygro-thermal loading conditions
-
-# omechanical and Hygro-Thermal Degradation of Composite Laminates in MATLAB
+# Mechanical and Hygro-Thermal Degradation of Composite Laminates in MATLAB
 
 This repository contains MATLAB scripts for analyzing the progressive failure of composite laminates under mechanical and hygro-thermal loads. The project implements two distinct degradation models—**Complete Degradation** and **Partial Degradation**—to simulate how a glass/epoxy laminate behaves as its individual layers (plies) begin to fail.
 
